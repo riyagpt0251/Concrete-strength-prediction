@@ -4,7 +4,7 @@
 [![GitHub Repo](https://img.icons8.com/color-glass/48/github.png)](https://github.com/riyagpt0251/Concrete-strength-prediction)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2FzZ2F5d3J2b3g1dW5yYzJ6a3V0Z2Z3eGZ4eW1pdW1zN3J4eGQ3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLVCgPl0Wby8X3K/giphy.gif" width="600" alt="Concrete Strength Analysis">
+  <img src="https://github.com/riyagpt0251/Concrete-strength-prediction/blob/main/file-QJ4VB1ZEKhJSJFfrXPLpa6.webp" width="600" alt="Concrete Strength Analysis">
 </div>
 
 ---
